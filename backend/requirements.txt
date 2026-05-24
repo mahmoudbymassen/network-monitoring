@@ -1,0 +1,11 @@
+﻿fastapi
+uvicorn[standard]
+sqlalchemy
+pymysql
+python-dotenv
+scapy
+python-nmap
+networkx
+pydantic
+mac-vendor-lookup
+passlib[bcrypt]
